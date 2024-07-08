@@ -10,7 +10,7 @@ const Home = () => {
       strings: [
         "Welcome to my profile",
         "My Name is Akash Naickar",
-        "I'm full stack developer",
+        "I'm a Full stack developer",
         "Web Developer (React js)",
       ],
       typeSpeed: 50,
